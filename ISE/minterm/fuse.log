@@ -1,0 +1,18 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o I:/PRJ/VHDL/ISE/minterm/minterm_test_isim_beh.exe -prj I:/PRJ/VHDL/ISE/minterm/minterm_test_beh.prj work.minterm_test 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "I:/PRJ/VHDL/ISE/minterm/../../minterm.vhd" into library work
+Parsing VHDL file "I:/PRJ/VHDL/ISE/minterm/../../testminterm.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture qmin_arch of entity qmin [qmin_default]
+Compiling architecture minterm_test_arch of entity minterm_test
+Time Resolution for simulation is 1ps.
+Compiled 5 VHDL Units
+Built simulation executable I:/PRJ/VHDL/ISE/minterm/minterm_test_isim_beh.exe
+Fuse Memory Usage: 29600 KB
+Fuse CPU Usage: 483 ms

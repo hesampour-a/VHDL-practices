@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "I:/PRJ/VHDL/ISE/minterm/minterm_test_isim_beh.exe" -prj "I:/PRJ/VHDL/ISE/minterm/minterm_test_beh.prj" "work.minterm_test" 

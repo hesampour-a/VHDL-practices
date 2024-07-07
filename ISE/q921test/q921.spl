@@ -1,0 +1,7 @@
+[Inputs]
+Clock
+Reset
+Din
+[Outputs]
+Dout
+[BiDir]

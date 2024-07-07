@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+q921 instance_name (
+    .Clock(Clock), 
+    .Reset(Reset), 
+    .Din(Din), 
+    .Dout(Dout)
+    );
+
+
