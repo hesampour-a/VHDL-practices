@@ -1,3 +1,0 @@
-vhdtdtfi -lib work ../../3.4.3.vhd -prj q343 -o q343.spl -module q343 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
-spl2sym -intstyle ise -family aartix7 q343.spl I:/PRJ/VHDL/ISE/q343/q343.sym 
-xst -intstyle ise -ifn "I:/PRJ/VHDL/ISE/q343/q343.xst" -ofn "I:/PRJ/VHDL/ISE/q343/q343.syr" 

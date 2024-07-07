@@ -1,2 +1,0 @@
-vhdl isim_temp "../../minterm.vhd"
-vhdl isim_temp "../../testminterm.vhd"

@@ -1,3 +1,0 @@
-vhdtdtfi -lib work ../../9.2.1.vhd -prj q921test -o q921.spl -module q921 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
-spl2sym -intstyle ise -family aartix7 q921.spl I:/PRJ/VHDL/ISE/q921test/q921.sym 
-vhdtdtfi -prj q921test -o I:/PRJ/VHDL/ISE/q921test/q921.tfi -module q921 -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work ../../9.2.1.vhd 

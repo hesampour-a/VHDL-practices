@@ -1,2 +1,0 @@
-vhdtdtfi -lib work ../../7.1.8.vhd -prj q718 -o q718.spl -module q718 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
-spl2sym -intstyle ise -family aartix7 q718.spl I:/PRJ/VHDL/ISE/q718/q718.sym 
